@@ -1,10 +1,20 @@
-# Getting Started with Create React App
+# Creating small E-Commerce Website.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![WhatsApp Image 2022-10-20 at 02 19 34](https://user-images.githubusercontent.com/91286091/196803147-c08c5299-cc61-4eaa-9b6b-0ba846677d26.jpeg)
 
-In the project directory, you can run:
+
+## System Requirements:
+
+![image](https://user-images.githubusercontent.com/91286091/196808574-7c5f4532-7b6b-43fe-91f1-e1ea4d57811c.png)
+
+
+## Technologies Used are:
+
+![image](https://user-images.githubusercontent.com/91286091/196808427-b6989b66-f88a-4b67-a6a8-39245b7a7983.png)
+
+
+## In the project directory, you can run:
 
 ### `npm start`
 
@@ -17,7 +27,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### `npm run build`
 
@@ -25,46 +35,28 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### and different other according to need.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## To run the website the Commands needs to run is:
+![WhatsApp Image 2022-10-20 at 02 19 37](https://user-images.githubusercontent.com/91286091/196804810-af1c06a2-7895-4e1a-ae1b-ad9bc207815d.jpeg)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Once the website is loaded, for placing order user needs to Signup or login. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![WhatsApp Image 2022-10-20 at 02 19 35 (1)](https://user-images.githubusercontent.com/91286091/196805341-94d8b2e4-3fa3-4532-927e-10ca32c90b2e.jpeg)
+![WhatsApp Image 2022-10-20 at 02 19 35](https://user-images.githubusercontent.com/91286091/196805656-6c0cc564-5251-4de0-92f1-9ed1c1a9ff3f.jpeg)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## For more queries or details regarding the product, Contact Us page is created:
+![WhatsApp Image 2022-10-20 at 02 19 36](https://user-images.githubusercontent.com/91286091/196805584-e755b1c8-1ade-4a48-9bda-efefbfbe9b9b.jpeg)
 
-## Learn More
+### For storing all the information entered MongoDB is used.
+To Connect with database firstly "mongod" commands needs to run and it will establish connection on port:3000.
+![WhatsApp Image 2022-10-20 at 02 19 36 (2)](https://user-images.githubusercontent.com/91286091/196806525-b44ca363-79e0-4414-b1f9-0227f2d0ffda.jpeg)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
